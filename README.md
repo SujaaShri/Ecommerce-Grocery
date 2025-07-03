@@ -1,8 +1,8 @@
-QuickMart: FULL-STACK eCommerce web application for seamless Grocery shopping
+**QuickMart: FULL-STACK eCommerce web application for seamless Grocery shopping**
 
 QuickMart is a dynamic and user-friendly online grocery shopping platform. It allows customers to explore products by category, manage their cart, proceed through a secure checkout and multi-mode payment process, and track their order history, all through a responsive and intuitive interface. An integrated admin portal empowers backend management of inventory and order delivery.
 
-Project Description
+**Project Description**
 QuickMart is a full-fledged eCommerce web application developed as part of a web programming project, aimed at replicating the core functions of an online supermarket. Designed to replicate a real-world grocery shopping experience, the platform streamlines the entire process, from product browsing to order placement and management. It offers a secure, interactive, and responsive interface for both users and administrators, emphasizing usability, data validation, and modular backend control. This project demonstrates the practical application of web development skills in creating maintainable and end-to-end operable online retail system
 
 Technologies Utilized
@@ -107,14 +107,15 @@ Each order includes:
 GitHub Repository
 The source code for this project is hosted on GitHub:
 https://github.com/SujaaShri/Ecommerce-Grocery_QuickMart
+
 Credits
 This project is a collaborative effort developed by a team of five members:
 Team Members:
-Sujaa Shri S  
-Ramya M
-Elakiya R 
-Thanusha E
-Mugeshwaran E
+•	Sujaa Shri S  
+•	Ramya M
+•	Elakiya R 
+•	Thanusha E
+•	Mugeshwaran E
 
 Conclusion
 This project serves as a robust foundation for developing real-world web applications, emphasizing user experience and fundamental backend integration. Future enhancements are planned, including the replacement of static HTML components with dynamic React components and the integration of secure payment gateways.
