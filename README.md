@@ -1,4 +1,4 @@
-##QuickMart: FULL-STACK eCommerce web application for seamless Grocery shopping##
+**QuickMart: FULL-STACK eCommerce web application for seamless Grocery shopping**
 
 QuickMart is a dynamic and user-friendly online grocery shopping platform. It allows customers to explore products by category, manage their cart, proceed through a secure checkout and multi-mode payment process, and track their order history, all through a responsive and intuitive interface. An integrated admin portal empowers backend management of inventory and order delivery.    
 
