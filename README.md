@@ -111,11 +111,12 @@ https://github.com/SujaaShri/Ecommerce-Grocery_QuickMart
 **Credits**  
 This project is a collaborative effort developed by a team of five members:  
 Team Members:  
-•	Sujaa Shri S    
-•	Ramya M  
-•	Elakiya R   
-•	Thanusha E  
-•	Mugeshwaran E    
+•	[Sujaa Shri S](https://github.com/SujaaShri)  
+•	[Ramya M](https://github.com/RAMYA-M-08)  
+•	[Mugeshwaran E](https://github.com/mugeshwaran954)  
+•	[Elakiya R](https://github.com/Elakiya-R31)  
+•	[Thanusha E](https://github.com/Thanusha1974)    
+
 
 **Conclusion**  
 This project serves as a robust foundation for developing real-world web applications, emphasizing user experience and fundamental backend integration. Future enhancements are planned, including the replacement of static HTML components with dynamic React components and the integration of secure payment gateways.
