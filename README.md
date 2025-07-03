@@ -5,7 +5,7 @@ QuickMart is a dynamic and user-friendly online grocery shopping platform. It al
 **Project Description**
 QuickMart is a full-fledged eCommerce web application developed as part of a web programming project, aimed at replicating the core functions of an online supermarket. Designed to replicate a real-world grocery shopping experience, the platform streamlines the entire process, from product browsing to order placement and management. It offers a secure, interactive, and responsive interface for both users and administrators, emphasizing usability, data validation, and modular backend control. This project demonstrates the practical application of web development skills in creating maintainable and end-to-end operable online retail system
 
-Technologies Utilized
+**Technologies Utilized**
 The following technologies were employed in the development of this project:
 Frontend: HTML, CSS, JavaScript
 JavaScript Library: jQuery
@@ -13,14 +13,14 @@ Backend: Node.js with Express.js
 Database: MongoDB
 Development Tools: Visual Studio Code,chrome
 
-System Configuration
+**System Configuration**
 To set up and run the system locally, please follow these steps:
 Install Node.js on your machine.
 Install MongoDB version 3.4 or above.
 Utilize Visual Studio Code as your code editor (recommended for optimal development experience).
 Install the necessary Node Package Manager (NPM) packages.
 
-NPM Dependencies
+**NPM Dependencies**
 The following essential NPM package are required
 express
 mongoose
@@ -29,7 +29,7 @@ cookie-parser
 express-session
 path
 
-Project Initialization
+**Project Initialization**
 To initialize and run the project, execute the following commands:
 1. Clone the repository: 
 git clone https://github.com/SujaaShri/Ecommerce-Grocery_QuickMart
@@ -48,7 +48,7 @@ User name: Admin#0x
 Password: Admin@0x
 , where x is 1-9
 
-Core Features
+**Core Features**
 The application incorporates the following core functionalities:
 1. User Signup and Login
 •	Users can create a new account or log in with existing credentials.
@@ -104,11 +104,11 @@ Each order includes:
 •	Update product stock, price, description, and current price
 •	Update the delivery status of placed orders
 
-GitHub Repository
+**GitHub Repository**
 The source code for this project is hosted on GitHub:
 https://github.com/SujaaShri/Ecommerce-Grocery_QuickMart
 
-Credits
+**Credits**
 This project is a collaborative effort developed by a team of five members:
 Team Members:
 •	Sujaa Shri S  
@@ -117,6 +117,6 @@ Team Members:
 •	Thanusha E
 •	Mugeshwaran E
 
-Conclusion
+**Conclusion**
 This project serves as a robust foundation for developing real-world web applications, emphasizing user experience and fundamental backend integration. Future enhancements are planned, including the replacement of static HTML components with dynamic React components and the integration of secure payment gateways.
 We welcome constructive feedback and contributions to further improve and expand this project.
